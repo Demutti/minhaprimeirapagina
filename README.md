@@ -1,2 +1,2 @@
 # minhaprimeirapagina
-Minha primeira página Web hospedada no GitHub pages
+Minha primeira página Web hospedada no GitHub
